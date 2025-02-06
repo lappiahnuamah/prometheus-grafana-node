@@ -280,7 +280,4 @@ You have successfully set up monitoring for your node application using Promethe
 
 ✅ Track Node performance metrics  
 ✅ Visualize data in Grafana dashboards  
-
-For advanced monitoring, consider adding **Alertmanager** and custom **PromQL queries**! 🚀🔥
 ```
->>>>>>> 366365c (Adding node js)
