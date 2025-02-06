@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# prometheus-grafana-node
-Node.js Application Monitoring with Prometheus and Grafana
-=======
 # Node.js Application Monitoring with Prometheus and Grafana
 
 This documentation provides a step-by-step guide to setting up monitoring for a Node.js application using Prometheus and Grafana. The setup includes collecting application metrics, exposing them to Prometheus, and visualizing them in Grafana.
